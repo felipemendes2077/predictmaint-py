@@ -4,6 +4,10 @@ Pipeline em Python que prevê se uma máquina industrial vai falhar, a partir de
 
 Projeto avaliativo do Módulo 1 do curso Desenvolvedor(a) em IA para Análise Preditiva (Fundamentos de Dados, Programação e Análise Preditiva com Python).
 
+## Vídeo de apresentação
+
+[Assistir ao vídeo no Google Drive](https://drive.google.com/file/d/1wCFUOJ0BPdGLZjMTbE3rnZ_YV297Nf7P/view?usp=sharing)
+
 ## Problema que resolve
 
 Paradas não planejadas na linha de produção geram custo e atraso. Com 10.000 leituras de sensores (temperatura do ar e do processo, velocidade de rotação, torque e desgaste da ferramenta), o projeto constrói um modelo que indica se a máquina vai falhar (`falha_maquina = 1`) ou operar normalmente (`0`), para que a equipe de manutenção priorize as inspeções.
