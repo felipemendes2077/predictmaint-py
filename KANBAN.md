@@ -1,7 +1,6 @@
 # Kanban: PredictMaint PY
 
 ## A fazer
-- [ ] Fase 4: split 80/20 com stratify + SMOTE no treino
 - [ ] Fase 5: StandardScaler só no KNN
 - [ ] Fase 6: variação de K e max_depth + análise de overfitting
 - [ ] Fase 7: acurácia final e veredito
@@ -12,9 +11,10 @@
 - [ ] Envio no AVA
 
 ## Fazendo
-- [ ] Fase 3: coluna potencia
+- [ ] Fase 4: split 80/20 com stratify + SMOTE no treino
 
 ## Feito
 - [x] Setup do repositório e ambiente
 - [x] Fase 1: EDA (dimensões, tipos, describe, 3 gráficos, análise)
 - [x] Fase 2: duplicados, nulos com justificativa, boxplots
+- [x] Fase 3: coluna potencia
