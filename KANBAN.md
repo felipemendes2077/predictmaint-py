@@ -1,7 +1,6 @@
 # Kanban: PredictMaint PY
 
 ## A fazer
-- [ ] Fase 6: variação de K e max_depth + análise de overfitting
 - [ ] Fase 7: acurácia final e veredito
 - [ ] README completo
 - [ ] Teste do zero em pasta nova
@@ -10,7 +9,7 @@
 - [ ] Envio no AVA
 
 ## Fazendo
-- [ ] Fase 5: StandardScaler só no KNN
+- [ ] Fase 6: variação de K e max_depth + análise de overfitting
 
 ## Feito
 - [x] Setup do repositório e ambiente
@@ -18,3 +17,4 @@
 - [x] Fase 2: duplicados, nulos com justificativa, boxplots
 - [x] Fase 3: coluna potencia
 - [x] Fase 4: split 80/20 com stratify + SMOTE no treino
+- [x] Fase 5: StandardScaler só no KNN
