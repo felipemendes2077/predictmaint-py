@@ -1,13 +1,12 @@
 # Kanban: PredictMaint PY
 
 ## A fazer
-- [ ] Teste do zero em pasta nova
 - [ ] Merge final na main
 - [ ] Vídeo + link no README
 - [ ] Envio no AVA
 
 ## Fazendo
-- [ ] README completo
+- [ ] Teste do zero em pasta nova
 
 ## Feito
 - [x] Setup do repositório e ambiente
@@ -18,3 +17,4 @@
 - [x] Fase 5: StandardScaler só no KNN
 - [x] Fase 6: variação de K e max_depth + análise de overfitting
 - [x] Fase 7: acurácia final e veredito
+- [x] README completo
