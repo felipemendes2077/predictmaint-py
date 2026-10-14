@@ -1,10 +1,8 @@
 # Kanban: PredictMaint PY
 
 ## A fazer
-- [ ] Envio no AVA
 
 ## Fazendo
-- [ ] Vídeo + link no README
 
 ## Feito
 - [x] Setup do repositório e ambiente
@@ -18,3 +16,5 @@
 - [x] README completo
 - [x] Teste do zero em pasta nova
 - [x] Merge final na main
+- [x] Vídeo + link no README
+- [x] Envio no AVA
